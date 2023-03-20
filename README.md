@@ -29,7 +29,7 @@ The scraped data contains the following fields:
 The scraped data may contain some errors or inconsistencies, and further cleaning may be required depending on the specific analysis or use case.
 
 ## Credits
-This project was completed by ***[Rohit Verma](https://www.linkedin.com/in/rohit-verma-3094b8224).***
+This project was completed by ***Me*** ***[Rohit Verma](https://www.linkedin.com/in/rohit-verma-3094b8224).***
 
 ## References
 - Flipkart website: https://www.flipkart.com/
